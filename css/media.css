@@ -1,0 +1,646 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	/*	header start*/
+  header {
+    padding: 15px 0;
+  }
+
+  .cmn_padd {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  /*navbar*/
+  .nav_link {
+    padding: 10px 0px !important;
+  }
+
+  .nav_item:last-child .nav_link {
+    padding-right: 0 !important;
+  }
+  /*	header End*/
+
+  /*    banner start*/
+  .circle1, .recta1, .circle3, .recta2{
+    display: none;
+  }
+
+  .banner_bg {
+    background-image: none; 
+  }
+  .badge {
+    font-size: 16px;
+    padding: 10px 15px 10px 50px;
+  }
+  .badge2 {
+    padding: 3px 9px;
+  }
+
+  .banner_h1 {
+    font-size: 30px;
+    line-height: 44px;
+  }
+  .button {
+    padding: 6px 17px;
+  }
+
+  /*    banner end*/
+  /*  trusted company start*/
+  .trusted_center{
+    justify-content: center !important;
+  }
+  .trusted_com_item1, .trusted_com_item2, .trusted_com_item3, 
+  .trusted_com_item4, .trusted_com_item5{
+    margin: 25px 0 0 0;
+  }
+/*  trusted company end*/
+
+/*  feature start*/
+.app_feature_right_text {
+  padding: 0 10px 0 0;
+}
+.app_feature_right {
+  padding: 0 0 0 0;
+}
+.list_item_content_icon {
+  padding: 15px 15px;
+  margin-right: 17px;
+}
+/*  feature end*/
+
+/*smart project start*/
+.jackpot_top_left {
+    border-right: none;
+    border-bottom: 1px solid var(--blue);
+}
+.jackpot_top_left h2 {
+  margin-bottom: 20px;
+  text-align: center;
+    padding-right: 0; 
+    font-size: 26px;
+    line-height: 42px;
+}
+.jackpot_top_right p {
+  text-align: center;
+     padding: 0; 
+     margin-top: 15px;
+}
+.smart_jackpot_bottom {
+    text-align: center;
+    margin-top: 70px;
+}
+.smart_jackpot_bottom p {
+     padding-right: 0; 
+}
+/*smart project end*/
+/*design built start*/
+.design_built_right{
+  text-align: center;
+}
+.design_built_h2 {
+    font-size: 26px;
+    line-height: 42px;
+}
+/*design built end*/
+/*why choose us start*/
+.why_choose_top h2 {
+    padding: 0 0px;
+    font-size: 26px;
+    line-height: 42px;
+}
+/*why choose us end*/
+
+/* ultimate feature start  */
+.ultimate_feature_left_text_h2 {
+  font-size: 26px;
+  line-height: 42px;
+  padding: 0;
+}
+.ultimate_single_item {
+  text-align: center;
+}
+.ultimate_feature_left_button{
+  text-align: center;
+}
+/* ultimate feature end */
+
+/*awesome pricing start*/
+.awesome_navbar {
+    padding: .7% 0;
+    width: 94%;
+}
+.awesome_navbar li button {
+    padding: 6px 33px;
+}
+.awesome_padd {
+    padding: 0 25px;
+}
+/*awesome pricing end*/
+
+/*testomonial start*/
+.testomonial_right{
+    text-align: center;
+}
+.testomonial_right h2 {
+  margin-top: 30px;
+    font-size: 26px;
+    line-height: 42px;
+}
+.testomonial_user{
+    padding: 0 90px;
+}
+.c_center{
+  text-align: center !important;
+}
+.testomonial_user_text {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+/*testomonial end*/
+/*faq start*/
+.faq_top_h2 {
+    font-size: 26px;
+    line-height: 42px;
+}
+.faq_button {
+    padding: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.faq_item:first-of-type .faq_button.collapsed {
+    padding: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.faq_item:last-of-type .faq_button.collapsed {
+    padding: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.faq_button:not(.collapsed) {
+    font-size: 16px;
+    line-height: 30px;
+    
+}
+.faq_body p {
+    font-size: 15px;
+}
+.faq_item {
+    margin-top: 30px;
+}
+/*faq end*/
+/*call to action start*/
+.call_to_action_left {
+  text-align: center;
+}
+.call_to_action_left h2 {
+    font-size: 26px;
+    line-height: 42px;
+}
+.apps img{
+  margin-top: 15px;
+}
+/*call to action end*/
+/*footer start*/
+.social_media ul li a i {
+    font-size: 26px;
+}
+/*footer end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/*	header start*/
+  header {
+    padding: 15px 0;
+  }
+
+  .cmn_padd {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  /*navbar*/
+  .nav_link {
+    padding: 10px 0px !important;
+  }
+
+  .nav_item:last-child .nav_link {
+    padding-right: 0 !important;
+  }
+  /*	header End*/
+  /*    banner start*/
+  .circle1, .recta1, .circle3, .recta2{
+    display: none;
+  }
+
+  .banner_bg {
+    background-image: none; 
+  }
+  .badge {
+    font-size: 16px;
+    padding: 10px 15px 10px 50px;
+  }
+  .badge2 {
+    padding: 3px 9px;
+  }
+
+  .banner_h1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .banner_right_img {
+    padding: 0 70px;
+  }
+
+  /*    banner end*/
+  /*  trusted company start*/
+  .trusted_center{
+    align-items: center;
+  }
+/*  trusted company end*/
+
+/*app feature start*/
+.app_feature_left{
+    padding: 0 120px;
+    margin-bottom: 30px;
+}
+.app_feature_right {
+    padding: 0 80px;
+}
+.app_feature_list_li {
+    margin-top: 45px;
+}
+.app_feature_right_text_h2 {
+    font-size: 32px;
+    line-height: 50px;
+}
+/*app feature end*/
+/*smart project start*/
+.jackpot_top_left {
+    border-right: none;
+    border-bottom: 1px solid var(--blue);
+}
+.jackpot_top_left h2 {
+  margin-bottom: 40px;
+  text-align: center;
+    padding-right: 0; 
+    font-size: 32px;
+    line-height: 52px;
+}
+.jackpot_top_right p {
+  text-align: center;
+     padding: 0; 
+     margin-top: 25px;
+}
+.smart_jackpot_bottom {
+  padding: 0 70px;
+    text-align: center;
+    margin-top: 70px;
+}
+.smart_jackpot_bottom p {
+     padding-right: 0; 
+}
+/*smart project end*/
+/*design built start*/
+.design_built_right{
+  text-align: center;
+}
+.design_built_h2 {
+    font-size: 32px;
+    line-height: 52px;
+}
+/*design built end*/
+/*why choose us start*/
+.why_choose_top h2 {
+    padding: 0 60px;
+    font-size: 32px;
+    line-height: 52px;
+}
+.justify_center{
+  justify-content: center;
+}
+/*why choose us end*/
+/* ultimate feature start  */
+.ultimate_feature_left_text_h2 {
+  padding: 0 70px;
+  font-size: 32px;
+  line-height: 52px;
+}
+.ultimate_single_item {
+  padding: 0 70px;
+  text-align: center;
+}
+.ultimate_feature_left_button{
+  text-align: center;
+}
+/* ultimate feature end */
+/*awesome pricing start*/
+.awesome_navbar {
+    padding: .4% 0;
+    width: 59.6%;
+}
+
+/*awesome pricing end*/
+
+/*testomonial start*/
+.testomonial_right h2 {
+  margin-top: 40px;
+  text-align: center;
+    font-size: 32px;
+    line-height: 52px;
+}
+.testomonial_right_paragraph {
+  text-align: center;
+}
+/*testomonial end*/
+/*call to action start*/
+
+.call_to_action_left h2{
+  font-size: 32px;
+}
+/*call to action end*/
+/*footer start*/
+.social_media ul li a i {
+    font-size: 30px;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* header start*/
+  header {
+    padding: 15px 0;
+  }
+
+  .cmn_padd {
+    padding-top: 60px;
+    padding-bottom: 70px;
+  }
+  /*navbar*/
+  .nav_link {
+    padding: 10px 0px !important;
+  }
+
+  .nav_item:last-child .nav_link {
+    padding-right: 0 !important;
+  }
+  /*  header End*/
+  /*    banner start*/
+
+  .circle1{
+    top: 0;
+    left: 100px;
+  }
+
+  .recta1{
+    bottom: 50px;
+    right: 310px;
+  }
+
+  .circle3{
+    left: 180px;
+    bottom: 0px;
+  }
+  .recta2{
+    top: 100px;
+    right: 200px;
+  }
+
+  .banner_h1 {
+    font-size: 38px;
+    line-height: 55px;
+  }
+  .button {
+    padding: 8px 36px;
+  }
+
+  /*    banner end*/
+  /*  trusted company start*/
+  .trusted_center{
+    align-items: center;
+  }
+/*  trusted company end*/
+/*app feature start*/
+
+.app_feature_right {
+    padding: 0;
+}
+/*app feature end*/
+/*smart project start*/
+.jackpot_top_left {
+    border-right: none;
+    border-bottom: 1px solid var(--blue);
+}
+.jackpot_top_left h2 {
+  margin-bottom: 40px;
+  text-align: center;
+    padding-right: 0; 
+    font-size: 32px;
+    line-height: 52px;
+}
+.jackpot_top_right p {
+  text-align: center;
+     padding: 0; 
+     margin-top: 25px;
+}
+.smart_jackpot_bottom {
+  padding: 0;
+    text-align: center;
+    margin-top: 70px;
+}
+.smart_jackpot_bottom p {
+     padding-right: 0; 
+}
+.smart_jackpot_bottom h3{
+  font-size: 17px;
+}
+/*smart project end*/
+/*design built start*/
+.design_built_h2 {
+    font-size: 32px;
+    line-height: 52px;
+}
+/*design built end*/
+/* ultimate feature start  */
+.ultimate_feature_left_text_h2 {
+  padding: 0 70px;
+  font-size: 36px;
+  line-height: 52px;
+}
+.ultimate_single_item {
+  text-align: center;
+}
+.ultimate_feature_left_button{
+  text-align: center;
+}
+.justify_center{
+  justify-content: center;
+}
+/* ultimate feature end */
+/*awesome pricing start*/
+.awesome_navbar {
+    padding: .4% 0;
+    width: 53.6%;
+}
+
+/*awesome pricing end*/
+
+/*testomoial start*/
+.justify_center{
+  justify-content: center;
+}
+.testomonial_right h2 {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 36px;
+}
+.testomonial_right_paragraph {
+  text-align: center;
+}
+/*testomoial end*/
+/*call to action start*/
+
+.call_to_action_left h2{
+  font-size: 38px;
+}
+/*call to action end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*  banner start*/
+.banner_h1 {
+  font-size: 43px;
+  line-height: 63px;
+}
+.circle1{
+  top: 0;
+  left: 100px;
+}
+.recta1{
+  bottom: 50px;
+  right: 470px;
+}
+
+.circle3{
+  left: 180px;
+  bottom: 10px;
+}
+.recta2{
+  top: 100px;
+  right: 200px;
+}
+/*  banner end*/
+/*  trusted company start*/
+.trusted_center{
+  align-items: center;
+}
+/*  trusted company start*/
+  .trusted_center{
+    align-items: center;
+  }
+/*  trusted company end*/
+/*app feature start*/
+
+.app_feature_right {
+    padding: 0;
+}
+.app_feature_right_text {
+    padding: 0 63px;
+}
+/*app feature end*/
+/*smart app project start*/
+.smart_jackpot_bottom p {
+     padding-right: 0; 
+}
+.jackpot_top_left h2 {
+     padding-right: 0; 
+    font-size: 34px;
+}
+.jackpot_top_right p {
+    padding: 0 25px;
+}
+/*smart app project end*/
+/*why choose us start*/
+.why_choose_top h2 {
+    padding: 0;
+}
+
+/*why choose us end*/
+/* ultimate feature start  */
+.ultimate_feature_left_text_h2 {
+  padding: 0;
+}
+/* ultimate feature end */
+/*awesome pricing start*/
+.awesome_navbar {
+    padding: .4% 0;
+    width: 67.6%;
+}
+
+/*awesome pricing end*/
+/*testomoial start*/
+
+.testomonial_right h2 {
+  font-size: 37px;
+}
+
+/*testomoial end*/
+
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*  banner start*/
+.banner_h1 {
+  font-size: 51px;
+  line-height: 73px;
+}
+/*banner end*/
+/*  trusted company start*/
+.trusted_center{
+  align-items: center;
+}
+/*  trusted company end*/
+/*app feature start*/
+.app_feature_right {
+    padding: 0 110px 0 0;
+}
+/*app feature end*/
+/*smart app start*/
+.jackpot_top_left h2 {
+    font-size: 38px;
+}
+/*smart app end*/
+/*why choose us start*/
+.why_choose_top h2 {
+    padding: 0 50px;
+}
+
+/*why choose us end*/
+/* ultimate feature start  */
+.ultimate_feature_left_text_h2 {
+  padding: 0 70px;
+}
+/* ultimate feature end */
+/*awesome pricing start*/
+.awesome_navbar {
+    padding: .4% 0;
+    width: 56.6%;
+}
+
+/*awesome pricing end*/
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*  trusted company start*/
+.trusted_center{
+  align-items: center;
+}
+/*  trusted company end*/
+}
